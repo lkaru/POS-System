@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\WorkSpace\\VS\\POS System\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|c:\\workspace\\vs\\pos system\\pos system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,65 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form2.cs",
-              "RelativeDocumentMoniker": "POS System\\Form2.cs",
-              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form2.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "POS System\\Form2.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T02:59:14.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form1.cs",
-              "RelativeDocumentMoniker": "POS System\\Form1.cs",
-              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form1.cs [\uB514\uC790\uC778]*",
-              "RelativeToolTip": "POS System\\Form1.cs [\uB514\uC790\uC778]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T01:44:47.991Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form2.Designer.cs",
-              "RelativeDocumentMoniker": "POS System\\Form2.Designer.cs",
-              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form2.Designer.cs",
-              "RelativeToolTip": "POS System\\Form2.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T02:59:29.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form1.cs",
-              "RelativeDocumentMoniker": "POS System\\Form1.cs",
-              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form1.cs",
-              "RelativeToolTip": "POS System\\Form1.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAADgv3MAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:08:37.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "POS System\\Form1.Designer.cs",
-              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form1.Designer.cs",
-              "RelativeToolTip": "POS System\\Form1.Designer.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAuwEYAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:56:14.64Z"
             }
           ]
         }
