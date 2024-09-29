@@ -40,4 +40,9 @@ C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS System.csproj.CoreCompileInp
 C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS System.csproj.Up2Date
 C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS System.exe
 C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS System.pdb
-C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS_System.Main.resources
+C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS_System.Form_StockStatus.resources
+C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS_System.Form_SalesHistory.resources
+C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS_System.Form_LogIn.resources
+C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS_System.Form_SignUp.resources
+C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS_System.Form_TheSalesGoods.resources
+C:\WorkSpace\VS\POS System\POS System\obj\Debug\POS_System.Form_SerialConnection.resources

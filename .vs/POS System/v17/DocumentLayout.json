@@ -1,7 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\WorkSpace\\VS\\POS System\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|c:\\workspace\\vs\\pos system\\pos system\\form_thesalesgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_thesalesgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_serialconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_serialconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_serialconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_serialconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_thesalesgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_thesalesgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_stockstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_stockstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_thesalesgoods.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_thesalesgoods.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_stockstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_stockstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_stockstatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_stockstatus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_saleshistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_saleshistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|C:\\WorkSpace\\VS\\POS System\\pos system\\form_login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F17DD72E-594A-4CC7-855C-086E5D8D13D1}|POS System\\POS System.csproj|solutionrelative:pos system\\form_login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +99,243 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_TheSalesGoods.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_TheSalesGoods.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_TheSalesGoods.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_TheSalesGoods.cs",
+              "RelativeToolTip": "POS System\\Form_TheSalesGoods.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAuwEIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:51:22.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_SerialConnection.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SerialConnection.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_SerialConnection.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SerialConnection.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "POS System\\Form_SerialConnection.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:42:08.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_SerialConnection.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SerialConnection.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_SerialConnection.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SerialConnection.cs",
+              "RelativeToolTip": "POS System\\Form_SerialConnection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:07:09.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_TheSalesGoods.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_TheSalesGoods.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_TheSalesGoods.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_TheSalesGoods.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "POS System\\Form_TheSalesGoods.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:34:47.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_StockStatus.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_StockStatus.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_StockStatus.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_StockStatus.cs",
+              "RelativeToolTip": "POS System\\Form_StockStatus.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAwEQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:40:08.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_TheSalesGoods.Designer.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_TheSalesGoods.Designer.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_TheSalesGoods.Designer.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_TheSalesGoods.Designer.cs",
+              "RelativeToolTip": "POS System\\Form_TheSalesGoods.Designer.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAApwNIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:06:50.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_StockStatus.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_StockStatus.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_StockStatus.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_StockStatus.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "POS System\\Form_StockStatus.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:46:12.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_StockStatus.Designer.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_StockStatus.Designer.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_StockStatus.Designer.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_StockStatus.Designer.cs",
+              "RelativeToolTip": "POS System\\Form_StockStatus.Designer.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAQwOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:20:13.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_SalesHistory.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SalesHistory.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_SalesHistory.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SalesHistory.cs",
+              "RelativeToolTip": "POS System\\Form_SalesHistory.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAQwAMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:23:31.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_SignUp.Designer.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SignUp.Designer.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_SignUp.Designer.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SignUp.Designer.cs",
+              "RelativeToolTip": "POS System\\Form_SignUp.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:14:25.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Program.cs",
+              "RelativeDocumentMoniker": "POS System\\Program.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Program.cs",
+              "RelativeToolTip": "POS System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:35:03.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form_SignUp.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SignUp.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_SignUp.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SignUp.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "POS System\\Form_SignUp.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:31:50.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form_SignUp.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SignUp.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_SignUp.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SignUp.cs",
+              "RelativeToolTip": "POS System\\Form_SignUp.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:32:05.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form_LogIn.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_LogIn.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_LogIn.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_LogIn.cs",
+              "RelativeToolTip": "POS System\\Form_LogIn.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAWwFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:13:13.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form_LogIn.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_LogIn.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_LogIn.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_LogIn.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "POS System\\Form_LogIn.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:27:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form_SalesHistory.Designer.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SalesHistory.Designer.cs",
+              "RelativeDocumentMoniker": "POS System\\Form_SalesHistory.Designer.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_SalesHistory.Designer.cs",
+              "RelativeToolTip": "POS System\\Form_SalesHistory.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:32:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "POS System\\Properties\\Settings.settings",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Properties\\Settings.settings",
+              "RelativeToolTip": "POS System\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-07-08T04:29:51.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "POS System\\Properties\\Resources.resx",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Properties\\Resources.resx",
+              "RelativeToolTip": "POS System\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-08T04:29:50.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "POS System\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "POS System\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:29:39.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form_LogIn.resx",
+              "DocumentMoniker": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_LogIn.resx",
+              "RelativeDocumentMoniker": "POS System\\Form_LogIn.resx",
+              "ToolTip": "C:\\WorkSpace\\VS\\POS System\\POS System\\Form_LogIn.resx",
+              "RelativeToolTip": "POS System\\Form_LogIn.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-08T04:15:51.486Z"
             }
           ]
         }
